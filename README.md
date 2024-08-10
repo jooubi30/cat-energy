@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Богдан Федотов](https://up.htmlacademy.ru/adaptive/32/user/2217035).
-* Наставник: `Неизвестно`.
+- Студент: [Богдан Федотов](https://up.htmlacademy.ru/adaptive/32/user/2217035).
+- Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
